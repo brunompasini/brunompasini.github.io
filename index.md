@@ -1,4 +1,4 @@
-##### [Sobre mim](/about) | [Repos da Poli](brunompasini.github.io/poli)
+##### [Sobre mim](/about) | [Repos da Poli](https://github.com/brunompasini/Poli)
 
 
 ## Sou um estudante de Engenharia Elétrica da Poli-USP que adora programar
