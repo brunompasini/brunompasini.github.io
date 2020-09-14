@@ -1,6 +1,4 @@
-# Welcome to my website
-
-## Sou um estudante de Engenharia Elétrica que adora programar
+## Sou um estudante de Engenharia Elétrica da Poli-USP que adora programar
 
 #### Aqui abaixo tem o link de alguns repos de desafios do Kaggle:
 - [Titanic dataset](https://github.com/brunompasini/Titanic)
@@ -8,6 +6,11 @@
 
 
 ### You can check some code I wrote @ [GitHub](https://github.com/brunompasini/).
+
+
+#### Contato
+- [brunompasini@gmail.com](mailto:brunompasini@gmail.com) **(Prefiro)**
+- [brunopasini@usp.br](mailto:brunopasini@usp.br)
 
 
 <!---
