@@ -1,3 +1,6 @@
+**[Sobre mim](brunompasini.github.io/about) | **
+
+
 ## Sou um estudante de Engenharia Elétrica da Poli-USP que adora programar
 
 #### Aqui abaixo tem o link de alguns repos de desafios do Kaggle:
