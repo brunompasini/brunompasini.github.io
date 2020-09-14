@@ -2,7 +2,7 @@
 
 I'm an EE student who loves coding
 
-You can check some code I wrote @ [GitHub](https://github.com/brunompasini/), incluiding this site.
+You can check some code I wrote @ [GitHub](https://github.com/brunompasini/).
 
 
 <!---
