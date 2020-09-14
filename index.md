@@ -1,8 +1,8 @@
-## Welcome to my website
+# Welcome to my website
 
-I'm an EE student who loves coding
+## I'm an EE student who loves coding
 
-You can check some code I wrote @ [GitHub](https://github.com/brunompasini/).
+### You can check some code I wrote @ [GitHub](https://github.com/brunompasini/).
 
 
 <!---
