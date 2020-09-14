@@ -1,6 +1,11 @@
 # Welcome to my website
 
-## I'm an EE student who loves coding
+## Sou um estudante de Engenharia Elétrica que adora programar
+
+#### Aqui abaixo tem o link de alguns repos de desafios do Kaggle:
+- [Titanic dataset](https://github.com/brunompasini/Titanic)
+- [MNIST dataset](https://github.com/brunompasini/Digit-Recognizer)
+
 
 ### You can check some code I wrote @ [GitHub](https://github.com/brunompasini/).
 
