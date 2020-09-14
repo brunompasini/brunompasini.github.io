@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+title: Bruno Pasini
+logo: logo.png
+description: My website
+
+
+theme: jekyll-theme-minimal
