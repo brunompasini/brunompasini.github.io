@@ -11,8 +11,7 @@
 - [Titanic dataset](https://github.com/brunompasini/Titanic)
 - [MNIST dataset](https://github.com/brunompasini/Digit-Recognizer)
 
-  
-### You can check some code I wrote @ [GitHub](https://github.com/brunompasini/).
+ 
 
 
 #### Contato
@@ -22,7 +21,7 @@
 
 <!---
 ### Markdown
-
+### You can check some code I wrote @ [GitHub](https://github.com/brunompasini/).
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
