@@ -1,3 +1,6 @@
+<link rel="shortcut icon" type="image/png" 
+      href="{{ "logo.png"  | absolute_url }}">
+
 ##### [Sobre mim](/about) | [Repo da Poli](https://github.com/brunompasini/Poli)
 
 
