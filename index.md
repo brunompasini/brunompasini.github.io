@@ -1,8 +1,7 @@
-##### [Sobre mim](/about) | [Repos da Poli](https://github.com/brunompasini/Poli)
+##### [Sobre mim](/about) | [Repo da Poli](https://github.com/brunompasini/Poli)
 
 
-## Sou um estudante de Engenharia Elétrica da Poli-USP que adora programar
-
+## Sou um estudante de Engenharia Elétrica da Poli-USP que adora programar, interessado principalmente em Machine Learning e suas aplicações em finanças
 #### Aqui abaixo tem o link de alguns repos de desafios do Kaggle:
 - [Titanic dataset](https://github.com/brunompasini/Titanic)
 - [MNIST dataset](https://github.com/brunompasini/Digit-Recognizer)
