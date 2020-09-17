@@ -7,7 +7,7 @@
 ## Interessado principalmente em Machine Learning e suas aplicações em finanças
 
 
-## Atualmente quero entender mais de NLP 
+## Ultimamente venho me interessando mais por Redes Neurais
 
 
 #### Contato
