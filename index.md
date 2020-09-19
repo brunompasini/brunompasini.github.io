@@ -11,8 +11,6 @@
 - [Titanic dataset](https://github.com/brunompasini/Titanic)
 - [MNIST dataset](https://github.com/brunompasini/Digit-Recognizer)
 
- 
-
 
 #### Contato
 - [brunompasini@gmail.com](mailto:brunompasini@gmail.com) **(Prefiro)**
