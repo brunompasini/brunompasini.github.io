@@ -11,6 +11,8 @@
 - [Titanic dataset](https://github.com/brunompasini/Titanic)
 - [MNIST dataset](https://github.com/brunompasini/Digit-Recognizer)
 
+#### Se você chegou aqui procurando um guia do Quartus para Laboratório Digital (ou talvez até SD mesmo) o link é [esse](/GuiaQuartus_v1.pdf)
+
 
 #### Contato
 - [brunompasini@gmail.com](mailto:brunompasini@gmail.com) **(Prefiro)**
