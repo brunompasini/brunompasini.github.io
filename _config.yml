@@ -1,9 +1,5 @@
 title: Bruno Pasini
 logo: logo.png
 description: "Meu site pessoal"
-permalink: /404.html
 url: brunompasini.github.io
 theme: jekyll-theme-minimal
-
-twitter:
-  username: &twitter
