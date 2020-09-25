@@ -7,7 +7,7 @@
 ## Interessado principalmente em Machine Learning e suas aplicações em finanças
 
 
-## Ultimamente venho me interessando mais por Redes Neurais
+## Ultimamente venho me estudando mais Redes Neurais
 
 
 #### Contato
