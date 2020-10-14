@@ -8,6 +8,7 @@
 
   
 #### Aqui abaixo tem o link de alguns repos de desafios do Kaggle:
+- [CNN que detecta pneumonia em fotos de raios X](https://github.com/brunompasini/Pneumonia-Detect)
 - [Titanic dataset](https://github.com/brunompasini/Titanic)
 - [MNIST dataset](https://github.com/brunompasini/Digit-Recognizer)
 
