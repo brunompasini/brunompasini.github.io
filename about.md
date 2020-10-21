@@ -1,6 +1,6 @@
 <span style="color:red">Ainda em construção</span>
 
-##### [Início](/index) | [Repos da Poli](https://github.com/brunompasini/Poli)
+##### [Início](/index) | [Repos da Poli](/poli)
 
 
 ## 3o ano de Engenharia Elétrica na Poli-USP
