@@ -1,6 +1,6 @@
 <span style="color:red">Ainda em construção</span>
 
-##### [Sobre mim](/about) | [Repo da Poli](/poli)
+##### [Sobre mim](/about) | [Repos da Poli](/poli)
 
 
 ## Sou um estudante de Engenharia Elétrica da Poli-USP que adora programar
