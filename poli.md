@@ -5,7 +5,7 @@
 
 #### Links para coisas que eu fiz para a Poli:
 - [Sistemas Digitais 2](https://github.com/brunompasini/SD2)
-- [Guia Quartus](/guia-quartus.pdf)
+- [Guia Quartus](files/guia-quartus.pdf)
 - [Laboratório de Programação Orientada a Objetos](https://github.com/brunompasini/LabOO)
 
 
