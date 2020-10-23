@@ -4,7 +4,7 @@
 
 
 ## Sou um estudante de Engenharia Elétrica da Poli-USP que adora programar
-#### Interessado principalmente em Machine Learning e suas aplicações em finanças  
+### Interessado principalmente em Machine Learning e suas aplicações em finanças  
 
   
 #### Aqui abaixo tem o link de alguns repos de desafios do Kaggle:
