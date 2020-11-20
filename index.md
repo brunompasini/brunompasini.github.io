@@ -7,6 +7,7 @@
 ### Interessado principalmente em Machine Learning e suas aplicações em finanças  
 
   
+#### [Se você quiser juntar pdfs](https://github.com/brunompasini/pdfjoin)
 #### Aqui abaixo tem o link de alguns repos de desafios do Kaggle:
 - [CNN que detecta pneumonia em fotos de raios X](https://github.com/brunompasini/Pneumonia-Detect)
 - [Titanic dataset](https://github.com/brunompasini/Titanic)
