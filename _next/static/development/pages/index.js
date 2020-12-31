@@ -16,7 +16,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\bruno\\nextjs-starter-dimension\\components\\Footer.js";
+    _jsxFileName = "C:\\Users\\bruno\\meusite\\components\\Footer.js";
 
 
 
@@ -86,7 +86,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\bruno\\nextjs-starter-dimension\\components\\Header.js";
+    _jsxFileName = "C:\\Users\\bruno\\meusite\\components\\Header.js";
 
 
 
@@ -153,7 +153,7 @@ var Header = function Header(props) {
       columnNumber: 17
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "#",
+    href: "/files/BrunoPasiniCV.pdf",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -259,7 +259,7 @@ __webpack_require__.r(__webpack_exports__);
 
 function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
-var _jsxFileName = "C:\\Users\\bruno\\nextjs-starter-dimension\\components\\Main.js";
+var _jsxFileName = "C:\\Users\\bruno\\meusite\\components\\Main.js";
 
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -474,7 +474,7 @@ var Main = /*#__PURE__*/function (_React$Component) {
           columnNumber: 11
         }
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        href: "#",
+        href: "/files/guia-quartus.pdf",
         __self: this,
         __source: {
           fileName: _jsxFileName,
@@ -9012,7 +9012,7 @@ __webpack_require__.r(__webpack_exports__);
 
 function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
-var _jsxFileName = "C:\\Users\\bruno\\nextjs-starter-dimension\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\bruno\\meusite\\pages\\index.js";
 
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
