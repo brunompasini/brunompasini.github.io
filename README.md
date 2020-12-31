@@ -1,2 +1,3 @@
 # brunompasini.github.io
-First iteration of my website, I'm really sad I got this idea after the college term started, prob gonna be unfinished for some time.
+Segunda versão, agora feita com Next.js e template de [https://github.com/codebushi/nextjs-starter-dimension](https://github.com/codebushi/nextjs-starter-dimension)
+O código, antes de gerar arquivos estáticos está em /source-code
